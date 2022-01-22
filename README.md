@@ -1,7 +1,9 @@
-# Hello World with Vanilla JS
-
-Start coding in 30 seconds by opening this template in gitpod:
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git)
+![4Geeks Logo](https://4geeksacademy.com//images/4geeks-logo.png)
+# Proyecto Random Card Dealer
+## Owner:
+### 	- Sofia Romero
+## ¿En que consiste el proyecto?
+- He creado una carta que a partir de funciones de randomización (que utilizan como parametro sus respectivos arrays de elementos) generan una carta con un numero random y el color rojo o negro dependiendo de si son corazones y diamantes (para rojo) o picas y treboles (para negro). 
 
 ### Manual Installation
 
