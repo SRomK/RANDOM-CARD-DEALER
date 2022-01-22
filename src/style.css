@@ -1,1 +1,13 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: rgb(59, 124, 39);
+}
+
+.card {
+  display: inline-block;
+  margin: auto;
+  height: 500px;
+  width: 200px;
+}
+
+.suit {
+}
